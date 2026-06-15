@@ -54,9 +54,9 @@
 
 安装命令：
 
-bash
 
-```
+
+```bash
 pip install requests pymysql matplotlib numpy
 ```
 
